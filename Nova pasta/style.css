@@ -2,3 +2,7 @@
     -cor--principal: #000;
     -cor--secundaria: #fff;
 }
+*{
+    padding: 0;
+    margin: 0;
+}
