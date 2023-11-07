@@ -1,8 +1,23 @@
-:root{
-    -cor--principal: #000;
-    -cor--secundaria: #fff;
+:root {
+  -cor--principal: #000;
+  -cor--secundaria: #fff;
 }
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(253, 253, 253);
+}
+
+.tabela {
+  width: 50% !important;
+  margin: auto;
+  border: 1px solid red;
+  margin-top: 10px;
+
+}
+
+table, td {
+  border: 1px solid black;
+  text-align: center;
+  border-collapse: collapse;
 }
